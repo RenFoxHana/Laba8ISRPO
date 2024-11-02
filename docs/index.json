@@ -1,0 +1,37 @@
+{
+  "README.html": {
+    "href": "README.html",
+    "title": "Laba8ISRPO",
+    "keywords": "Laba8ISRPO"
+  },
+  "api/Laba8.DataHelper.html": {
+    "href": "api/Laba8.DataHelper.html",
+    "title": "Class DataHelper",
+    "keywords": "Class DataHelper Namespace Laba8 Assembly Lab8.dll Класс для работы с датами. public class DataHelper Inheritance object DataHelper Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors DataHelper(DateOnly, DateOnly) Конструктор для определения дат. public DataHelper(DateOnly firstDate, DateOnly lastDate) Parameters firstDate DateOnly Первая дата. lastDate DateOnly Вторая дата. Examples Пример: Console.WriteLine(\"Введите первую дату (в формате ГГГГ-ММ-ДД):\"); DateOnly firstDate; while (!DateOnly.TryParse(Console.ReadLine(), out firstDate)) { Console.WriteLine(\"Неверный формат даты. Повторите ввод.\"); } Console.WriteLine(\"Введите вторую дату (в формате ГГГГ-ММ-ДД):\"); DateOnly lastDate; while (!DateOnly.TryParse(Console.ReadLine(), out lastDate)) { Console.WriteLine(\"Неверный формат даты. Повторите ввод.\"); } DataHelper dataHelper = new DataHelper(firstDate, lastDate); Methods FindDays() Метод для поиска разницы между датами. public int FindDays() Returns int Разница дней. Examples Console.WriteLine($\"Разница в днях между датами равна - {dataHelper.FindDays()}\"); FindLeapYear() Метод для определения високосного года. public void FindLeapYear() Examples dataHelper.FindLeapYear(); WriteDate() Метод для вывода даты в нужном формате. public void WriteDate()"
+  },
+  "api/Laba8.Program.html": {
+    "href": "api/Laba8.Program.html",
+    "title": "Class Program",
+    "keywords": "Class Program Namespace Laba8 Assembly Lab8.dll Класс для работы с классом DataHelper public class Program Inheritance object Program Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/Laba8.html": {
+    "href": "api/Laba8.html",
+    "title": "Namespace Laba8",
+    "keywords": "Namespace Laba8 Classes DataHelper Класс для работы с датами. Program Класс для работы с классом DataHelper"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE.",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

@@ -1,0 +1,79 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Laba8
+  name: Laba8
+  href: api/Laba8.html
+  commentId: N:Laba8
+  fullName: Laba8
+  nameWithType: Laba8
+- uid: Laba8.DataHelper
+  name: DataHelper
+  href: api/Laba8.DataHelper.html
+  commentId: T:Laba8.DataHelper
+  fullName: Laba8.DataHelper
+  nameWithType: DataHelper
+- uid: Laba8.DataHelper.#ctor(System.DateOnly,System.DateOnly)
+  name: DataHelper(DateOnly, DateOnly)
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper__ctor_System_DateOnly_System_DateOnly_
+  commentId: M:Laba8.DataHelper.#ctor(System.DateOnly,System.DateOnly)
+  name.vb: New(DateOnly, DateOnly)
+  fullName: Laba8.DataHelper.DataHelper(System.DateOnly, System.DateOnly)
+  fullName.vb: Laba8.DataHelper.New(System.DateOnly, System.DateOnly)
+  nameWithType: DataHelper.DataHelper(DateOnly, DateOnly)
+  nameWithType.vb: DataHelper.New(DateOnly, DateOnly)
+- uid: Laba8.DataHelper.#ctor*
+  name: DataHelper
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper__ctor_
+  commentId: Overload:Laba8.DataHelper.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Laba8.DataHelper.DataHelper
+  fullName.vb: Laba8.DataHelper.New
+  nameWithType: DataHelper.DataHelper
+  nameWithType.vb: DataHelper.New
+- uid: Laba8.DataHelper.FindDays
+  name: FindDays()
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper_FindDays
+  commentId: M:Laba8.DataHelper.FindDays
+  fullName: Laba8.DataHelper.FindDays()
+  nameWithType: DataHelper.FindDays()
+- uid: Laba8.DataHelper.FindDays*
+  name: FindDays
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper_FindDays_
+  commentId: Overload:Laba8.DataHelper.FindDays
+  isSpec: "True"
+  fullName: Laba8.DataHelper.FindDays
+  nameWithType: DataHelper.FindDays
+- uid: Laba8.DataHelper.FindLeapYear
+  name: FindLeapYear()
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper_FindLeapYear
+  commentId: M:Laba8.DataHelper.FindLeapYear
+  fullName: Laba8.DataHelper.FindLeapYear()
+  nameWithType: DataHelper.FindLeapYear()
+- uid: Laba8.DataHelper.FindLeapYear*
+  name: FindLeapYear
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper_FindLeapYear_
+  commentId: Overload:Laba8.DataHelper.FindLeapYear
+  isSpec: "True"
+  fullName: Laba8.DataHelper.FindLeapYear
+  nameWithType: DataHelper.FindLeapYear
+- uid: Laba8.DataHelper.WriteDate
+  name: WriteDate()
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper_WriteDate
+  commentId: M:Laba8.DataHelper.WriteDate
+  fullName: Laba8.DataHelper.WriteDate()
+  nameWithType: DataHelper.WriteDate()
+- uid: Laba8.DataHelper.WriteDate*
+  name: WriteDate
+  href: api/Laba8.DataHelper.html#Laba8_DataHelper_WriteDate_
+  commentId: Overload:Laba8.DataHelper.WriteDate
+  isSpec: "True"
+  fullName: Laba8.DataHelper.WriteDate
+  nameWithType: DataHelper.WriteDate
+- uid: Laba8.Program
+  name: Program
+  href: api/Laba8.Program.html
+  commentId: T:Laba8.Program
+  fullName: Laba8.Program
+  nameWithType: Program
